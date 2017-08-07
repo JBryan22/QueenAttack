@@ -1,0 +1,8 @@
+/Users/Guest/Desktop/Queen.Solution/Queen/bin/Debug/netcoreapp1.1/Queen.deps.json
+/Users/Guest/Desktop/Queen.Solution/Queen/bin/Debug/netcoreapp1.1/Queen.runtimeconfig.json
+/Users/Guest/Desktop/Queen.Solution/Queen/bin/Debug/netcoreapp1.1/Queen.runtimeconfig.dev.json
+/Users/Guest/Desktop/Queen.Solution/Queen/bin/Debug/netcoreapp1.1/Queen.dll
+/Users/Guest/Desktop/Queen.Solution/Queen/bin/Debug/netcoreapp1.1/Queen.pdb
+/Users/Guest/Desktop/Queen.Solution/Queen/obj/Debug/netcoreapp1.1/Queen.AssemblyInfo.cs
+/Users/Guest/Desktop/Queen.Solution/Queen/obj/Debug/netcoreapp1.1/Queen.dll
+/Users/Guest/Desktop/Queen.Solution/Queen/obj/Debug/netcoreapp1.1/Queen.pdb
